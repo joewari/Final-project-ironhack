@@ -1,3 +1,5 @@
+# Author: Benwari Joseph Ebiegberi
+
 # global-state-with-piniajs
 
 ### What are life-cycle hooks in Vue.js
